@@ -7,4 +7,4 @@
 - 📊  I am driven by strong work ethic and the desire to keep learning, and I am always looking for new opportunities to grow and challenge myself.
 - 🐍 I'm currently learning Python and SQL while developing my data analytics skills
 - 💼 I'm looking for internship opportunities
-- ⚡ Fun fact: I like to fish 
+- ⚡ Fun fact: I like to fish
